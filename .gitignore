@@ -1,0 +1,3 @@
+# Compiled visualizer helper (built on demand into the cache at runtime).
+lofi-viz
+*.o

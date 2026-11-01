@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.killerc0w554.lofi-radio",
+  "name": "Lofi Radio",
+  "version": "1.0.0",
+  "author": "Killerc0w554",
+  "description": "A steaming coffee cup that plays lofi radio from the bar, with a live spectrum visualizer, stations, sleep timer and volume.",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "Lofi.qml"
+  },
+  "barWidget": {
+    "displayName": "Lofi Radio",
+    "description": "Lofi radio in the bar. Left-click play/stop, right-click stations & sleep timer, scroll for volume, middle-click to mute.",
+    "category": "Media",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  }
+}
