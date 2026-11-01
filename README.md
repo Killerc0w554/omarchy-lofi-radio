@@ -1,4 +1,4 @@
-# Lofi Radio
+# Lofi Radio Player
 
 A steaming coffee cup for the Omarchy Quattro bar that streams long-running
 lofi radio. It bobs and glows while playing, animated steam drifts off the
